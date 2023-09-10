@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434893233930",
+    "project_id": "xmart-4552f",
+    "storage_bucket": "xmart-4552f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434893233930:android:142792f063c072fbb624f3",
+        "android_client_info": {
+          "package_name": "com.islamicitem.xmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434893233930-rkv33cvkvo960kfjniotek3gepv4qh6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islamicitem.xmart",
+            "certificate_hash": "ffaa02845f6421f0ecf02793a659badda776bfdc"
+          }
+        },
+        {
+          "client_id": "434893233930-dq2c9b77inrub98u2spnin22fqi68oeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPK5beWvtzwVYR3qX5BF-CfRf8gjN5FtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434893233930-dq2c9b77inrub98u2spnin22fqi68oeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

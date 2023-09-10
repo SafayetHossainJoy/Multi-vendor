@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~
+  ~ * Webkul Software.
+  ~
+  ~ * @package Mobikul App
+  ~
+  ~ * @Category Mobikul
+  ~
+  ~ * @author Webkul <support@webkul.com>
+  ~
+  ~ * @Copyright (c) Webkul Software Private Limited (https://webkul.com)
+  ~
+  ~ * @license https://store.webkul.com/license.html ASL Licence
+  ~
+  ~ * @link https://store.webkul.com/license.html
+  ~
+  ~ */
+  -->
+
+<resources>
+    <color name="ic_launcher_background">#EC8F7B</color>
+</resources>

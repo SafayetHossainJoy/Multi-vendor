@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ /**
+  ~
+  ~ * Webkul Software.
+  ~
+  ~ * @package Mobikul App
+  ~
+  ~ * @Category Mobikul
+  ~
+  ~ * @author Webkul <support@webkul.com>
+  ~
+  ~ * @Copyright (c) Webkul Software Private Limited (https://webkul.com)
+  ~
+  ~ * @license https://store.webkul.com/license.html ASL Licence
+  ~
+  ~ * @link https://store.webkul.com/license.html
+  ~
+  ~ */
+  -->
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>626326470542-4af50jahvo975i2gc6mklmjivsjas69j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.626326470542-4af50jahvo975i2gc6mklmjivsjas69j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>626326470542-0f668vssg716m8k8vn5i6e7p6tehtad9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSPTw5rCktZUgNEO273ezFHljmZUj0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>626326470542</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.webkul.OdooMarketplace</string>
+	<key>PROJECT_ID</key>
+	<string>mobikul-odoo-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobikul-odoo-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:626326470542:ios:7d91e3889fb23584</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobikul-odoo-app.firebaseio.com</string>
+</dict>
+</plist>
