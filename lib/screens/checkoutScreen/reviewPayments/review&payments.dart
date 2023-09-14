@@ -240,12 +240,14 @@ class _ReviewScreenState extends State<ReviewScreen> {
                                 ? const Center(
                                     child: CircularProgressIndicator(),
                                   )
-                                : Container(
+                                : 
+                                Container(
                                     color: Colors.green,
                                     height: 50,
                                     width: 150,
                                     child: const Center(
-                                      child: Text(
+                                      child: 
+                                      Text(
                                         "Place Order",
                                         style: TextStyle(
                                           fontWeight: FontWeight.bold,
@@ -353,7 +355,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
                         ?.copyWith(color: AppColors.lightGray),
                   ),
 
-                  /// Amar pay kothai implement k
+                  
                   SizedBox(
                     height: 30,
                     width: 60,
